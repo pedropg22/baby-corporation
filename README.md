@@ -9,8 +9,9 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](https://github.com/pedropg22)
-- [Aluno2](github.com/aluno2)
+- [Pedro Gabriel Vieira](https://github.com/pedropg22)
+- [Daniel Henrique Fernades ](https://github.com/danielhenrique090109)
+- [Lucidrey Valentina Maita Bonilla](https://github.com/Lucidrey).
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
