@@ -205,6 +205,8 @@ repassar ao cliente para aprovação, e caso o cliente aprovar, a atendente deve
 
 RF001:o site deve ter uma filtragem de nomes localizações e abilidades
 
+RF002: o usuario deve poder visualizar as informações da Baba
+
 **5.1 O que são requisitos funcionais?**
 
 Um requisito funcional é uma declaração de como um sistema deve se comportar. Define o que o sistema deve fazer para atender às necessidades ou expectativas do usuário. Os requisitos funcionais podem ser pensados ​como recursos que o usuário detecta.
