@@ -1,5 +1,4 @@
-# Projeto Integrador - Modelo
-*(baby corporation.)*
+# Projeto Integrador - Baby corporation
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 *(Em nosso site pode-se achar serviços de babás e seu curriculo logo abaixo.)*
@@ -69,7 +68,3 @@ RF011: a pagina de agendamentos onde dele a informação do preso sua disponibil
 RNF001: o site deve ser feito em cores pasteis
 RNF002: o frontend deve ser feito em vue.js
 RNF003: o backend deve ser feito com python django
-
-# 7. Diagrama de Caso de Uso
-
-*(Aqui vocês devem colocar o link ou imagem do Diagrama de Caso de Uso real do projeto de vocês!)*
