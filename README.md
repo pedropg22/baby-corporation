@@ -171,7 +171,7 @@ RNF002: o frontend deve ser feito em vue.js
 
 RN003: o backend deve ser feito com pytoon jungle
 
-# 7. Diagrama de Caso de Uso
+`` # 7. Diagrama de Caso de Uso
 
 **7.1 Introdução**
 
@@ -366,6 +366,4 @@ entendimento).
 ![Identificando a fronteira do sistema](img/dcu_identificando_a_fronteira_do_sistema.png "Identificando a fronteira do sistema")
 
 ---
-
-
 
