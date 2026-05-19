@@ -18,6 +18,15 @@ Links do projeto:
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
+**1.1 Modelos de Sistemas**
+
+**1.1.3 Ordem de Serviço (O.S.)**
+
+O modelo de Ordem de Serviço foi o escolhido para o desenvolvimento do nosso projeto. No contexto da **Babyscorporation**, cada solicitação de atendimento feita por uma família será tratada como uma "Ordem de Serviço". O sistema permitirá gerenciar o ciclo completo desse serviço: desde a abertura do pedido pelos pais, a escala e confirmação da babá disponível, até a finalização e o registro do pagamento (via PIX).
+
+**Motivo da escolha:**
+Escolhemos esse modelo porque o agendamento de uma babá funciona exatamente como a prestação de um serviço personalizado. Precisamos controlar o horário de início e fim, o valor cobrado (preço/hora), os profissionais alocados e o status do atendimento (pendente, confirmado, em andamento ou concluído). Esse modelo garante a organização que a empresa precisa para evitar conflitos de agenda e automatizar os fluxos de trabalho.
+
 # 2. Situação Problema
 
 A “Babyscorporation” é uma rede de babás que conecta famílias e profissionais, mas atualmente funciona de forma manual, usando principalmente Whatsapp e planilhas. O agendamento é demorado, porque depende de confirmar disponibilidade individualmente com cada babá, podendo gerar conflitos de horário.
