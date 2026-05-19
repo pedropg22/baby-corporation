@@ -75,5 +75,7 @@ RF011: a pagina de agendamentos onde dele a informação do preso sua disponibil
 # 6. Requisitos não funcionais
 
 RNF001: o site deve ser feito em cores pasteis
+
 RNF002: o frontend deve ser feito em vue.js
+
 RNF003: o backend deve ser feito com python django
