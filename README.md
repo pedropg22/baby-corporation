@@ -12,44 +12,14 @@ Equipe:
 - [Daniel Henrique Fernades ](https://github.com/danielhenrique090109)
 - [Lucidrey Valentina Maita Bonilla](https://github.com/Lucidrey).
 
-Links do projeto:
-(*https://github.com/babys-corporation*)
--   Documentação (esse documento)](github.com/marcoandre/pi-modelo)
--   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
-**1.1 Modelos de Sistemas**
-
-**1.1.3 Ordem de Serviço (O.S.)**
-
-O modelo de Ordem de Serviço foi o escolhido para o desenvolvimento do nosso projeto. No contexto da **Babyscorporation**, cada solicitação de atendimento feita por uma família será tratada como uma "Ordem de Serviço". O sistema permitirá gerenciar o ciclo completo desse serviço: desde a abertura do pedido pelos pais, a escala e confirmação da babá disponível, até a finalização e o registro do pagamento (via PIX).
-
-**Motivo da escolha:**
-Escolhemos esse modelo porque o agendamento de uma babá funciona exatamente como a prestação de um serviço personalizado. Precisamos controlar o horário de início e fim, o valor cobrado (preço/hora), os profissionais alocados e o status do atendimento (pendente, confirmado, em andamento ou concluído). Esse modelo garante a organização que a empresa precisa para evitar conflitos de agenda e automatizar os fluxos de trabalho.
-
-# 2. Situação Problema
-
-A “Babyscorporation” é uma rede de babás que conecta famílias e profissionais, mas atualmente funciona de forma manual, usando principalmente Whatsapp e planilhas. O agendamento é demorado, porque depende de confirmar disponibilidade individualmente com cada babá, podendo gerar conflitos de horário.
-
-As informações das profissionais são desorganizadas, dificultando a escolha da mais adequada. Além disso, não há controle eficiente dos pagamentos, nem um sistema estruturado de avaliações. A comunicação é dispersa e sujeita a erros.
-
-Esses problemas mostram a necessidade de um sistema que organize e automatize os processos da empresa.
-
-# 3. Descrição da proposta
-
-O software proposto terá como foco centralizar e automatizar o gerenciamento da rede de babás. Ele permitirá controlar agendas, cadastrar profissionais, organizar informações, registrar avaliações e acompanhar pagamentos.
-
-Haverá dois tipos de usuários: o administrador, com acesso completo, as babás, que poderão gerenciar sua disponibilidade e atendimentos e os clientes, que poderam requisitar os serviços da empresa.
-
-Com isso, a empresa ganhará mais organização, agilidade e qualidade no serviço prestado.
-
-# 4. Modelagem de Dados
+# 2. Modelagem de Dados
 <img width="727" height="548" alt="WhatsApp Image 2026-04-24 at 12 59 57" src="https://github.com/user-attachments/assets/87b3d931-ec23-43c6-8b04-d87521ab2b63" />
 
-# 4. Regras de negócio
+# 3. Regras de negócio
 *(Aqui vocês devem listar as Regras de Negócio específicas da Babyscorporation, ex: RN01 - Cadastro de Babá: A profissional só pode se cadastrar se informar um CPF válido e telefone.)*
 
-# 5. Requisitos funcionais
+# 4. Requisitos funcionais
 RF001: ao entar no site o usuario deve ver uma parte introdutoria onde em seu final tera a opção de logar como responsavel ou baba
 
 RF002: se o usuario escolher baba ele deve logar com essas informações: Nome da babá ,Data de nascimento,Experiência,Preço,Educação,Dias disponiveis,Habilidades,Sobre você,CPF,Número de telefone, Endereço ,Alergias, Condições medicas
@@ -72,7 +42,7 @@ RF010: o site deve abrir uma pagina de agendamentos ao clicar em agendamentos na
 
 RF011: a pagina de agendamentos onde dele a informação do preso sua disponibilidade e abaixo um botão de pgamento que levara a sua chave pix
 
-# 6. Requisitos não funcionais
+# 5. Requisitos não funcionais
 
 RNF001: o site deve ser feito em cores pasteis
 
