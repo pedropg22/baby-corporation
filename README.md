@@ -123,3 +123,12 @@ RNF010: O sistema deve ser feito em cores pasteis.
 RNF011: O sistema deve ser feito em vue.js.
 
 RNF013: O sistema deve ser feito com python django.
+
+
+
+# 6. lincks para o frontend vercel e Backend no Fabroku
+
+
+https://babycorporation-backend.class.fabricadesoftware.ifc.edu.br/
+
+https://babycorporation-frontend-eta.vercel.app/
