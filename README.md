@@ -132,3 +132,7 @@ RNF013: O sistema deve ser feito com python django.
 https://babycorporation-backend.vercel.app//admin/
 
 https://babycorporation-frontend.vercel.app
+
+# 7. codigo
+
+nosso codigo esta em https://github.com/babys-corporation
